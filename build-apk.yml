@@ -5,7 +5,8 @@ on:
     branches: [main]
     paths:
       - 'PDF-viewe-Android-Quellcode.zip'
-      - '.github/workflows/build-apk.yml'
+      - '.
+      /github/workflows/build-apk.yml.'
 jobs:
   build:
     runs-on: ubuntu-latest
